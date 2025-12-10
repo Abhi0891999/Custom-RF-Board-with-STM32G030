@@ -4,7 +4,7 @@ This repository contains the complete hardware design of a **4-layer PCB** based
 - Altium schematic ('.SchDoc')
 - PCB layout ('.PcbDoc')
 - Project file ('.PrjPcb')
-- PDF exports of schematic & PCB
+- PDF exports of schematic
 - Manufacturing-ready files (Gerbers can be added later)
 ## Key Features
 - **STM32G030K8T6 microcontrller**
